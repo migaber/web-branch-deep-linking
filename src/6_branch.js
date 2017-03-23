@@ -1239,7 +1239,7 @@ Branch.prototype['applyCode'] = wrap(callback_params.CALLBACK_ERR, function(done
  *
  * **[Formerly `showCredits()`](CHANGELOG.md)**
  *
- * This call will retrieve the entire history of credits and redemptions from the individual user.
+ * This call will retrieve the entire history of credits and redemptions from the individual user
  *
  * ##### Usage
  * ```js
